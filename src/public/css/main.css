@@ -37,4 +37,10 @@ img{
 
 #about{
 	background-color: white;
+	border-radius: 0%;
+}
+
+#ab{
+width: 300px; 
+height: 300px;
 }
